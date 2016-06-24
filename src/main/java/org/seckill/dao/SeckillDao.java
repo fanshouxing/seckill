@@ -9,6 +9,7 @@ import java.util.List;
 /**
  * Created by FanShouxing on 2016/6/22.
  */
+@SuppressWarnings("all")
 public interface SeckillDao {
 
     /**
